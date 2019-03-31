@@ -1,0 +1,6 @@
+여기는 여행 앱 개발 Git 입니다.
+해당 앱에 대한 개발 계획 및 작업 내역은 
+
+https://drive.google.com/drive/folders/1YnC2j964jDQuvu-z-Y-OimgtcgKNKe2R
+
+를 참고하시기 바랍니다.
